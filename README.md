@@ -1,1 +1,1 @@
-# Practice repository to practice Git, GitHu, Jenkins and Python.
+# Practice repository to practice Git, GitHub, Jenkins and Python.
