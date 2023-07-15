@@ -48,7 +48,7 @@ cars = [
 ]
 
 # Exercise 1: Print the make and model of each car
-if False:
+if True:
     for car in cars:
         print(f"Make: {car['make']},  Model: {car['model']}")
     
